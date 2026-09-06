@@ -34,6 +34,4 @@ player,team,role,auction_price_cr,runs,wickets,strike_rate,economy,matches
 
 4. Validate predictions against future auction seasons, not random rows from the same season.
 
-## Interview pitch
 
-“CricoNomics is a decision-support dashboard for IPL auction strategy. It estimates a role-normalised Performance Value Index, compares each auction price with a modelled fair price, and groups teams by strategy. I built it to make the trade-off between star spending and squad efficiency explainable, while being transparent that the included portfolio data is illustrative until real inputs are loaded.”
